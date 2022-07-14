@@ -1,6 +1,6 @@
 {
-  "name": "webpack5",
-  "version": "1.0.0",
+  "name": "<%= className %>",
+  "version": "<%= version %>",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
