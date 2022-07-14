@@ -1,4 +1,6 @@
-# vue-test
+# react-webpack5-react
+
+https://registry.npmjs.org/
 
 ## Project setup
 
